@@ -9,7 +9,7 @@ class Calculator:
         pass
 
     def multiply(self, a, b):
-        pass
+        return a * b
 
     def divide(self, a, b):
         # if b == 0:
